@@ -1,0 +1,84 @@
+
+   BODY{
+   font-family:cursive;
+
+    background-color:	#fff8dc;
+   }
+   hr{
+    
+  background-color:white ;
+  border: none;
+  border-color: grey;
+  border-width: 7px;
+  border-top-style: dotted;
+  height: 0px ;
+  width: 5%;
+   }
+h3{
+    color:blue
+}
+h2{
+    color:maroon
+}
+h1
+{font-size: 80px;
+    font-family: Rockwell;
+    color:purple;
+}
+p{
+    color: orangered;
+}
+i{
+color: orchid;
+}
+img:hover
+ { color:blueviolet;
+    background-color: red;
+}
+.hero{
+    background-color: blue;
+    
+}
+.circular
+{
+    border-radius: 50%;
+}
+#broh1{
+    background-color: yellow;
+    font-size: 80px;
+    font-family: Rockwell;
+    color:palevioletred;
+ border-radius: 0%;
+height:70px;
+ 
+}
+a:hover
+{ color:black;
+    background-color: lightgreen;   }
+
+
+    .div{
+      color:orange;
+ background-color: transparent;
+     
+      position:relative;
+top:300px;
+     left:300px;
+        font-size:500%;
+
+
+    }
+   
+
+.click{
+    color:magenta; 
+    position:relative;
+    left:600px;
+    top:350px;
+  
+    font-size: xx-large;
+}
+   .continue
+   {
+    color:yellow;
+   }
